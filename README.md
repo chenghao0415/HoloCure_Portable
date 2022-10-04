@@ -3,7 +3,7 @@
 
 -----使用方法-----
 
-1.將HoloCure_Portable.zip檔下載
+1.將HoloCure_Portable.zip檔下載(下載:https://github.com/chenghao0415/HoloCure_Portable/releases/download/%E4%B8%8B%E8%BC%89/HoloCure_Portable.zip)
 
 2.將HoloCure_Portable.zip解壓縮
 
