@@ -1,7 +1,7 @@
 # 攜帶版HoloCure
 這是一個攜帶版本的HoloCure
 
------使用方法-----
+### 使用方法
 
 1.將HoloCure_Portable.zip檔下載(下載:https://github.com/chenghao0415/HoloCure_Portable/releases/download/%E4%B8%8B%E8%BC%89/HoloCure_Portable.zip)
 
@@ -13,7 +13,7 @@
 
 5.Have fun!
 
------提示-----
+### 提示
 
 1.如果已經有遊玩過的存檔想移至攜帶版，
 
@@ -31,7 +31,7 @@
 
 4.這個攜帶版只是我做好玩的，所以有bug在跟我講吧XD
 
------警告-----
+### 警告
 
 1.在啟動之後，請勿將HoloCure_Portable視窗關閉，
 
